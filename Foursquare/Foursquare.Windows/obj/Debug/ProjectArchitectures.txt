@@ -1,0 +1,2 @@
+c:\users\zlkha\onedrive\documents\visual studio 2015\Projects\Foursquare\Foursquare\Foursquare.Windows\Foursquare.Windows.csproj;neutral
+c:\users\zlkha\onedrive\documents\visual studio 2015\Projects\Foursquare\Foursquare\Foursquare\Foursquare.csproj;neutral
